@@ -60,4 +60,4 @@ This repository includes practical and theoretical notebooks exploring topics li
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/VikasVaghasiya2806/VikasVaghasiya2806.git
+git clone https://github.com/VikasVaghasiya2806/Module_A1.git
